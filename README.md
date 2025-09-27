@@ -4,7 +4,7 @@
 ![vscoed](https://img.shields.io/badge/power_automate-00B0D8?style=for-the-badge&logo=probot&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/microsoft_excel-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
-![vscoed](https://img.shields.io/badge/Outlook-0058A0?style=for-the-badge&logo=ru&logoColor=white) 
+![vscoed](https://img.shields.io/badge/Outlook-0058A0?style=for-the-badge&logo=mailgun&logoColor=white) 
 
 
 # 🎫 Ticket Automation Demo – Microsoft Forms + Excel + Make + Jira + Teams
