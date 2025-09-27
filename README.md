@@ -1,3 +1,12 @@
+![vscoed](https://img.shields.io/badge/make-6D00CC?style=for-the-badge&logo=make&logoColor=white) 
+![vscoed](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white) 
+![vscoed](https://img.shields.io/badge/open_ai-00B5AD?style=for-the-badge&logo=openai&logoColor=white) 
+![vscoed](https://img.shields.io/badge/manychat-000000?style=for-the-badge&logo=mezmo&logoColor=white) 
+![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
+![vscoed](https://img.shields.io/badge/microsoft_excel-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
+![vscoed](https://img.shields.io/badge/Outlook-0058A0?style=for-the-badge&logo=ru&logoColor=white) 
+
+
 # 🎫 Ticket Automation Demo – Microsoft Forms + Excel + Make + Jira + Teams
 
 This project demonstrates a complete **ticketing workflow** built with free tools and integrations, avoiding premium connectors.  
@@ -69,4 +78,17 @@ The system simulates a real IT ticketing process, from form submission to team c
 
 ---
 
+## ✅ Status
+
+**Live demo available.**  
+Tested on social media channels and integrated with Power Automate for confirmation and logging.
+
+---
+
+## 📬 Contact
+
+For demos or collaboration:  
+📧 [hydrai.connections@gmail.com](mailto:hydrai.connections@gmail.com)
+
+---
 
