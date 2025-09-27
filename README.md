@@ -7,7 +7,7 @@
 ![vscoed](https://img.shields.io/badge/Outlook-0058A0?style=for-the-badge&logo=mailgun&logoColor=white) 
 
 
-# 🎫 Ticket Automation Demo – Microsoft Forms + Excel + Make + Jira + Teams
+# 🎫 Ticket Automation Demo & Tracker
 
 This project demonstrates a complete **ticketing workflow** built with free tools and integrations, avoiding premium connectors.  
 The system simulates a real IT ticketing process, from form submission to team collaboration, with a professional and verifiable flow.
