@@ -1,5 +1,5 @@
 ![vscoed](https://img.shields.io/badge/make-6D00CC?style=for-the-badge&logo=make&logoColor=white) 
-![vscoed](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white) 
+![vscoed](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/open_ai-00B5AD?style=for-the-badge&logo=openai&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/manychat-000000?style=for-the-badge&logo=mezmo&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
